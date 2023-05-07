@@ -1,0 +1,152 @@
+vporras4@gmail.com
+Porras35.
+
+
+
+
+
+
+
+paginas 19-31
+file:///home/carlos/Downloads/(Princeton%20University%20Press)%20Edward%20Nelson%20-%20Dynamical%20theories%20of%20Brownian%20motion-Princeton%20University%20Press%20(1967).pdf
+
+
+
+Biblio para hurst exponent , brownian motion
+https://en.wikipedia.org/wiki/Brownian_motion
+https://www.stat.berkeley.edu/users/aldous/205B/pitman_yor_guide_bm.pdf
+https://towardsdatascience.com/introduction-to-the-hurst-exponent-with-code-in-python-4da0414ca52e
+
+https://mpra.ub.uni-muenchen.de/2152/1/MPRA_paper_2152.pdf
+
+
+En
+https://www.projectpro.io/article/how-to-build-arima-model-in-python/544
+Calcula las ACF y PCF con la serie diferenciada
+El argumento de ARIMA es la serie no diferenciada.
+Autoregresive ve PACF, para orden p
+MA ve ACF para orden q
+
+https://stackoverflow.com/questions/73112516/arimaresults-object-has-no-attribute-plot-predict-error
+
+https://machinelearningmastery.com/time-series-forecast-uncertainty-using-confidence-intervals-python/
+
+
+PAra marco teorico de arma
+https://sci-hub.se/10.1016/B978-0-12-800852-2.00011-0
+
+https://www.washingtonpost.com/graphics/2020/world/corona-simulator-spanish/
+https://online.stat.psu.edu/stat510/lesson/2/2.2
+https://online.stat.psu.edu/stat462/node/188/
+https://www.analog.com/media/en/technical-documentation/dsp-book/dsp_book_ch15.pdf
+https://wirelesspi.com/moving-average-filter/
+
+Comparar curvas de Guatemala con las de
+https://coronavirus.jhu.edu/region/guatemala
+aqui hace referencia al pais, no a la capital
+
+https://en.wikipedia.org/wiki/Autoregressive_model
+https://en.wikipedia.org/wiki/Moving-average_model
+https://otexts.com/fpp2/stationarity.html
+https://towardsdatascience.com/time-series-models-d9266f8ac7b0
+https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-022-01755-x
+
+
+https://towardsdatascience.com/interpreting-acf-and-pacf-plots-for-time-series-forecasting-af0d6db4061c
+
+https://www.researchgate.net/figure/Comparison-of-GBM-model-with-ARIMA-and-SARIMA-models_tbl1_346962794
+	
+	file:///home/carlos/Downloads/s12874-022-01755-x.pdf
+	Similar al mio
+https://pdf.sciencedirectassets.com/314898/1-s2.0-S1474667097X71782/1-s2.0-S1474667017444685/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEEMaCXVzLWVhc3QtMSJGMEQCIHktTy3PzcgZABed504LbvDuTegkWoE73ACRKYax9iI5AiBabF0fGylEri9FZI7CzA225ULeYYYA57NhF4OBSNVE0yrVBAis%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAUaDDA1OTAwMzU0Njg2NSIMh%2BJ%2FM0%2FsvOdpB6NZKqkEhDA%2FG6Hao0gNI68YD%2FdY%2BxGMd7cCNKTKQGG3OtQkp6lpdRgQ27DAYbt1ORc6AtN%2FPUuqu9NS%2Fbd%2FLyvw3wsq0cm4szYxnh2pakNnsCus2C%2BVWLKA59FsPWu2OUKTQFNqZut6wS2nClkLQJ%2BLWxYnach5s%2FWyA%2BRah3m1MxztPAvy%2FpkHHz2J26rV%2BMpvn472hfdMu%2FjXP%2BrVClETpL4pRss07ZqgTo2elPKCQH%2FelaQwEEQgbMqMkoOXYGQmTF82cSsLTVR2X3pqy8L%2FlT%2FbZt3JIhxsSP4Ls2QcXWBNmQNS%2BpouU76pD3S90lsyrsoH5E0ml9ZuxPqsfA5yWFmfNsWYH6G8Uu2xE9qf7lYdIYUehiFBDrNNRKoqnpL7tygoNQ0hm7yoEHgtGUaKM4FNncSgoyhtd4pelilhnmYEME2D5H6WRBlHdXUO0kbj6KGjmJXEcg%2FjTKDaBT0NZGOKyaQVK2MbPkgyPchCxl%2BMqX2FkXk%2Foqiv6Ag%2FN7%2FmuKpkpzGebn4JLXerk9CjWfLxjp2X%2BJ0BlHCw7ThZRTKA%2BNY57POQ6YWsCndc19BCDmDrCSoNpecauEvOT2IqTMbRN8AJ55c6JIGIGFNRhuR9VX05%2BrJpj9Igjm1ZoLAk%2F6iOBUC6MJnILUP%2B1o4EG%2F4QV0a27tW0bdrIVjem3vlcxILafgWN%2FJP6b5x83kZBDv5QCBfnZewUpFcpCv0EHi76hYgAePjWL3KhaDDP7bCeBjqqARfWRdJ%2FaKu6VtF2NXk0od4EbRqrnt8dfzcv5LT%2FPx%2BBhudocJ1CW%2F%2FH9GZCDuZPDao%2Bc%2FQLVYQT9hYSPSU%2BaQBkglrSsp05%2F26jfQg8DgSgegpuYSNgI9PBek0TyH8ujyb7iwieMBx%2BTBhPnxSecyJwqcugoMRgWbFfTnEJMLuFNJNeYvjxud0EDQnuYekHt681j56Bot1nmZlo%2F4lR3cGJbYDN094bFf89&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230121T202655Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY3M3A736F%2F20230121%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=cde5a02776dbb3abbdbf21a41d69a05764bd87235c02d2664ef46c309c94054c&hash=e84852da88826a8f6b88f54d53893e3f897a76cf9b4700add8ae51e3aba825af&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1474667017444685&tid=spdf-f57c1b45-f171-40ca-9e37-6d054e9448d4&sid=e9fb9f8c988b63479948bf8905d7dec3eb32gxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=011758560b5c0c5d5d&rr=78d2c99deb15ded3&cc=gt
+
+
+
+https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-022-01755-x
+https://openreview.net/pdf?id=B1EA-M-0Z
+
+
+TUTORIALES 
+https://youtu.be/DeORzP0go5I
+
+https://www.youtube.com/watch?v=y8opUEd05Dg&embeds_widget_referrer=https%3A%2F%2Ftowardsdatascience.com%2Finterpreting-acf-and-pacf-plots-for-time-series-forecasting-af0d6db4061c&embeds_euri=https%3A%2F%2Fcdn.embedly.com%2F&embeds_origin=https%3A%2F%2Fcdn.embedly.com&feature=emb_rel_pause
+
+https://www.youtube.com/watch?v=oY-j2Wof51c&embeds_widget_referrer=https%3A%2F%2Ftowardsdatascience.com%2Finterpreting-acf-and-pacf-plots-for-time-series-forecasting-af0d6db4061c&embeds_euri=https%3A%2F%2Fcdn.embedly.com%2F&embeds_origin=https%3A%2F%2Fcdn.embedly.com&feature=emb_rel_pause
+
+
+
+
+Yo soy un hombre sincero
+Yo soy un hombre sincero
+De donde crece la palma,
+Y antes de morirme quiero
+Echar mis versos del alma.
+Yo vengo de todas partes,
+Y hacia todas partes voy:
+Arte soy entre las artes,
+En los montes, monte soy.
+Yo sé los nombres extraños
+De las yerbas y las flores,
+Y de mortales engaños,
+Y de sublimes dolores.
+Yo he visto en la noche oscura
+Llover sobre mi cabeza
+Los rayos de lumbre pura
+De la divina belleza.
+Alas nacer vi en los hombros
+De las mujeres hermosas:
+Y salir de los escombros,
+Volando las mariposas.
+He visto vivir a un hombre
+Con el puñal al costado,
+Sin decir jamás el nombre
+De aquella que lo ha matado.
+Rápida, como un reflejo,
+Dos veces vi el alma, dos:
+Cuando murió el pobre viejo,
+Cuando ella me dijo adiós.
+Temblé una vez —en la reja,
+A la entrada de la viña,—
+Cuando la bárbara abeja
+Picó en la frente a mi niña.
+Gocé una vez, de tal suerte
+Que gocé cual nunca:—cuando
+La sentencia de mi muerte
+Leyó el alcalde llorando.
+Oigo un suspiro, a través
+De las tierras y la mar,
+Y no es un suspiro,—es
+Que mi hijo va a despertar.
+Si dicen que del joyero
+Tome la joya mejor,
+Tomo a un amigo sincero
+Y pongo a un lado el amor.
+Yo he visto al águila herida
+Volar al azul sereno,
+Y morir en su guarida
+La víbora del veneno.
+Yo sé bien que cuando el mundo
+Cede, lívido, al descanso,
+Sobre el silencio profundo
+Murmura el arroyo manso.
+Yo he puesto la mano osada,
+De horror y júbilo yerta,
+Sobre la estrella apagada
+Que cayó frente a mi puerta.
+Oculto en mi pecho bravo
+La pena que me lo hiere:
+El hijo de un pueblo esclavo
+Vive por él, calla y muere.
+Todo es hermoso y constante,
+Todo es música y razón,
+Y todo, como el diamante,
+Antes que luz es carbón.
+Yo sé que el necio se entierra
+Con gran lujo y con gran llanto.
+Y que no hay fruta en la tierra
+Como la del camposanto.
+Callo, y entiendo, y me quito
+La pompa del rimador:
+Cuelgo de un árbol marchito
+Mi muceta de doctor.
+   José Martí
