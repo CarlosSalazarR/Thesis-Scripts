@@ -1,0 +1,26 @@
+El notebook road_network da la distribución de carreteras para cada uno de los 22 departamentos, la línea de código:
+
+stats = ox.basic_stats(G_gt)
+
+brinda información sobre la distribución de las carreteras, por ejemplo para el departamento de Guatemala:
+
+streets_per_node_counts: {0: 0,
+  1: 3703,
+  2: 79,
+  3: 11162,
+  4: 3925,
+  5: 47,
+  6: 9}
+  
+  Vemos que hay 3703 casos de calles conectadas a un solo nodo (Revisar si esta afirmación es correcta.)
+  De ser correcta esta afirmación, esta cantidad corresponde a la cantidad de conexiones entre cada departamento con sus departamentos vecinos.
+  
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  
+El notebook Percolacion considera la densidad de las conexiones determinadas en el notebook anterior, se tiene entonces la 
+densidad superficial de conexiones y la densidad perimetral de conexiones. Se busca si existe una relación lineal entre estas dos cantidades con la cantidad dA_MAX_n.
+
+La cantidad dA_MAX_n es el máximo de nuevos infectados diarios reportado  en todo el periodo de observación dividido entre el área superficial del departamento en el que ocurre.
+  

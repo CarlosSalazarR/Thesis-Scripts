@@ -1,0 +1,654 @@
+ 'GUATEMALA' 225.63 km, 2,199.82 km² verdadero: 2,253
+ 'CHIQUIMULA' 242.32 km, 2,382.33 km² verdadero: 2376 km2
+ 'HUEHUETENANGO' 403.12 km, 7,338.76 km² verdadero: 7400
+ 'QUETZALTENANGO' 284.76 km, 2,152.51 km² verdadero: 1953
+ 'SACATEPEQUEZ'126.74 km, 541.05 km², verdadero: 465
+ Si no se toma en cuenta el volcan:
+ 146.34 km, 481.58 km²
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ 'QUICHE' 575.44 km, 7,538.5 km², verdadero 8,378
+ 'SANTA ROSA' 275.77 km, 3,310.73 km², verdadero 2955
+ 'JUTIAPA' 346.13 km, 3,364.51 km², verdadero 3266
+ 'SAN MARCOS' 345.89 km, 3,509.55 km², verdadero 3,791
+ 'CHIMALTENANGO'206.51 km, 1,903.37 km², 1,979 km²
+ 'SOLOLA' 163.71 km, 1,175.08 km², verdadero: 1061 km2
+ 'ESCUINTLA' 338.64 km, 4,555.9 km², verdadero: 4,384 km²
+ 'SUCHITEPEQUEZ' 277.38 km, 2,166.62 km², verdadero: 2,510 km²
+ 'PETEN' 864.7 km,  36,419.1 km², verdadero: 35,854 
+ 'BAJA VERAPAZ' 299.25 km,  3,023.23 km², 3,124
+ 'RETALHULEU' 246.02 km, 1,973.77 km²,  verdadero: 1856 km²
+ 'ALTA VERAPAZ' 498.14 km, 10,715.35 km², verdadero: 8,686 km²
+ 'EL PROGRESO' 203.99 km, 1,839.15 km², verdadero: 1,922 km²
+ 'JALAPA' 212.44 km, 2,038.06 km², verdadero: 2,063 km²
+ 'ZACAPA' 281.65 km, 2,720.9 km², verdadero: 2,690 km²
+ 'IZABAL' 455.72 km, 8,415.49 km², 9,038 km²
+ 'TOTONICAPAN' 166.84 km, 1,100.12 km², verdadero: 1,061 km²
+
+
+225.63, 242.32, 403.12, 284.76, 126.74, 575.44,  275.77, 346.13, 345.89, 206.51, 163.71, 338.64, 277.38 , 36,419.1, 299.25,  246.02, 498.14, 203.99, 212.44, 281.65, 455.72, 166.84
+
+
+
+
+
+
+
+
+
+
+
+
+
+Guatemala
+
+{'n': 18925,
+ 'm': 44195,
+ 'k_avg': 4.670541611624835,
+ 'edge_length_total': 3864562.637000004,
+ 'edge_length_avg': 87.44343561488864,
+ 'streets_per_node_avg': 2.8182826948480844,
+ 'streets_per_node_counts': {0: 0,
+  1: 3703,
+  2: 79,
+  3: 11162,
+  4: 3925,
+  5: 47,
+  6: 9},
+ 'streets_per_node_proportions': {0: 0.0,
+  1: 0.195667107001321,
+  2: 0.004174372523117569,
+  3: 0.5898018494055483,
+  4: 0.2073976221928666,
+  5: 0.0024834874504623514,
+  6: 0.00047556142668428},
+ 'intersection_count': 15222,
+ 'street_length_total': 2342877.404999992,
+ 'street_segment_count': 26637,
+ 'street_length_avg': 87.95575346322754,
+ 'circuity_avg': 1.0663045655428298,
+ 'self_loop_proportion': 0.002027255321545219}
+
+
+
+Jalapa
+
+{'n': 4936
+ 'm': 12971
+ 'k_avg': 5.2556726094003245
+ 'edge_length_total': 3906205.920999996
+ 'edge_length_avg': 301.14917284712016
+ 'streets_per_node_avg': 2.6924635332252835
+ 'streets_per_node_counts': {0: 0 1: 1168 2: 2 3: 2950 4: 813 5: 2 6: 1}
+ 'streets_per_node_proportions': {0: 0.0
+  1: 0.2366288492706645
+  2: 0.0004051863857374392
+  3: 0.5976499189627229
+  4: 0.16470826580226905
+  5: 0.0004051863857374392
+  6: 0.0002025931928687196}
+ 'intersection_count': 3768
+ 'street_length_total': 1967729.9780000013
+ 'street_segment_count': 6624
+ 'street_length_avg': 297.06068508454126
+ 'circuity_avg': 1.1983653776132877
+ 'self_loop_proportion': 0.0006038647342995169}
+
+
+
+Santa Rosa
+
+{'n': 4894
+ 'm': 12413
+ 'k_avg': 5.072742133224357
+ 'edge_length_total': 4110079.84099998
+ 'edge_length_avg': 331.1109192781745
+ 'streets_per_node_avg': 2.6371066612178176
+ 'streets_per_node_counts': {0: 0 1: 1260 2: 5 3: 2882 4: 745 5: 2}
+ 'streets_per_node_proportions': {0: 0.0
+  1: 0.25745811197384555
+  2: 0.001021659174499387
+  3: 0.5888843481814466
+  4: 0.15222721700040867
+  5: 0.0004086636697997548}
+ 'intersection_count': 3634
+ 'street_length_total': 2103214.3610000014
+ 'street_segment_count': 6433
+ 'street_length_avg': 326.9414520441476
+ 'circuity_avg': 1.1647628475804945
+ 'self_loop_proportion': 0.001088139281828074}
+ 
+ 
+ 
+ Jutiapa
+ 
+ {'n': 8127
+ 'm': 20887
+ 'k_avg': 5.140150116894303
+ 'edge_length_total': 5679306.917000013
+ 'edge_length_avg': 271.9063013836364
+ 'streets_per_node_avg': 2.627660883474837
+ 'streets_per_node_counts': {0: 0
+  1: 2088
+  2: 10
+  3: 4881
+  4: 1137
+  5: 10
+  6: 1}
+ 'streets_per_node_proportions': {0: 0.0
+  1: 0.25692137320044295
+  2: 0.0012304663467454166
+  3: 0.6005906238464378
+  4: 0.13990402362495385
+  5: 0.0012304663467454166
+  6: 0.00012304663467454166}
+ 'intersection_count': 6039
+ 'street_length_total': 2855323.2899999875
+ 'street_segment_count': 10651
+ 'street_length_avg': 268.0803013801509
+ 'circuity_avg': 1.141307523584192
+ 'self_loop_proportion': 0.0009388789784996713}
+ 
+ 
+ 
+ 
+ Chiquimula
+ 
+ {'n': 7198
+ 'm': 18601
+ 'k_avg': 5.168380105584885
+ 'edge_length_total': 5390705.725999981
+ 'edge_length_avg': 289.80730745658735
+ 'streets_per_node_avg': 2.6618505140316753
+ 'streets_per_node_counts': {0: 0 1: 1742 2: 10 3: 4397 4: 1038 5: 11}
+ 'streets_per_node_proportions': {0: 0.0
+  1: 0.24201166990830786
+  2: 0.0013892747985551543
+  3: 0.6108641289247013
+  4: 0.144206724090025
+  5: 0.0015282022784106697}
+ 'intersection_count': 5456
+ 'street_length_total': 2717286.5910000084
+ 'street_segment_count': 9563
+ 'street_length_avg': 284.1458319564999
+ 'circuity_avg': 1.2296428115154077
+ 'self_loop_proportion': 0.001045696957021855}
+
+
+
+Escuintla
+
+{'n': 3190
+ 'm': 8097
+ 'k_avg': 5.0764890282131665
+ 'edge_length_total': 1232826.5790000025
+ 'edge_length_avg': 152.2572037791778
+ 'streets_per_node_avg': 2.713793103448276
+ 'streets_per_node_counts': {0: 0 1: 722 2: 7 3: 1929 4: 527 5: 4 6: 1}
+ 'streets_per_node_proportions': {0: 0.0
+  1: 0.2263322884012539
+  2: 0.00219435736677116
+  3: 0.6047021943573667
+  4: 0.1652037617554859
+  5: 0.0012539184952978057
+  6: 0.00031347962382445143}
+ 'intersection_count': 2468
+ 'street_length_total': 663157.1820000017
+ 'street_segment_count': 4310
+ 'street_length_avg': 153.86477540603286
+ 'circuity_avg': 1.089972257267893
+ 'self_loop_proportion': 0.0009280742459396752}
+
+​
+
+Suchi
+{'n': 5701
+ 'm': 14797
+ 'k_avg': 5.1910191194527275
+ 'edge_length_total': 3833075.394
+ 'edge_length_avg': 259.0440896127593
+ 'streets_per_node_avg': 2.685493773022277
+ 'streets_per_node_counts': {0: 0
+  1: 1521
+  2: 16
+  3: 2909
+  4: 1247
+  5: 6
+  6: 2}
+ 'streets_per_node_proportions': {0: 0.0
+  1: 0.26679529907033855
+  2: 0.0028065251710226277
+  3: 0.5102613576565515
+  4: 0.21873355551657603
+  5: 0.0010524469391334855
+  6: 0.00035081564637782847}
+ 'intersection_count': 4180
+ 'street_length_total': 1965958.7650000032
+ 'street_segment_count': 7638
+ 'street_length_avg': 257.39182573972283
+ 'circuity_avg': 1.086289210648916
+ 'self_loop_proportion': 0.00013092432573972245}
+ 
+ 
+ Rehu
+ 
+ {'n': 5396
+ 'm': 14228
+ 'k_avg': 5.27353595255745
+ 'edge_length_total': 3382172.6340000173
+ 'edge_length_avg': 237.71244264830034
+ 'streets_per_node_avg': 2.7227575982209045
+ 'streets_per_node_counts': {0: 0 1: 1290 2: 3 3: 3025 4: 1069 5: 9}
+ 'streets_per_node_proportions': {0: 0.0
+  1: 0.2390659747961453
+  2: 0.0005559673832468495
+  3: 0.5606004447739066
+  4: 0.19810971089696072
+  5: 0.0016679021497405485}
+ 'intersection_count': 4106
+ 'street_length_total': 1710478.6030000034
+ 'street_segment_count': 7333
+ 'street_length_avg': 233.2576848493118
+ 'circuity_avg': 1.084314888565912
+ 'self_loop_proportion': 0.0006818491749624983}
+
+
+Solola
+{'n': 3184
+ 'm': 7557
+ 'k_avg': 4.746859296482412
+ 'edge_length_total': 2224812.0709999986
+ 'edge_length_avg': 294.4041380177317
+ 'streets_per_node_avg': 2.512562814070352
+ 'streets_per_node_counts': {0: 0 1: 924 2: 5 3: 1956 4: 297 5: 2}
+ 'streets_per_node_proportions': {0: 0.0
+  1: 0.29020100502512564
+  2: 0.00157035175879397
+  3: 0.614321608040201
+  4: 0.0932788944723618
+  5: 0.000628140703517588}
+ 'intersection_count': 2260
+ 'street_length_total': 1177929.2160000002
+ 'street_segment_count': 3984
+ 'street_length_avg': 295.6649638554218
+ 'circuity_avg': 1.260223891082605
+ 'self_loop_proportion': 0.000251004016064257}
+
+
+Toto
+{'n': 3418
+ 'm': 8621
+ 'k_avg': 5.044470450555881
+ 'edge_length_total': 3521441.940000005
+ 'edge_length_avg': 408.47256002783956
+ 'streets_per_node_avg': 2.583674663545933
+ 'streets_per_node_counts': {0: 0 1: 876 2: 3 3: 2208 4: 330 5: 1}
+ 'streets_per_node_proportions': {0: 0.0
+  1: 0.25629022820362785
+  2: 0.0008777062609713282
+  3: 0.6459918080748976
+  4: 0.0965476887068461
+  5: 0.0002925687536571094}
+ 'intersection_count': 2542
+ 'street_length_total': 1777989.5420000004
+ 'street_segment_count': 4371
+ 'street_length_avg': 406.7695131548845
+ 'circuity_avg': 1.2145555985533696
+ 'self_loop_proportion': 0.00022878059940517045}
+ 
+ 
+ Quetzaltenango
+ {'n': 4891
+ 'm': 11462
+ 'k_avg': 4.6869760785115515
+ 'edge_length_total': 1175713.3689999965
+ 'edge_length_avg': 102.57488823939944
+ 'streets_per_node_avg': 2.6904518503373542
+ 'streets_per_node_counts': {0: 0 1: 1177 2: 13 3: 2871 4: 807 5: 23}
+ 'streets_per_node_proportions': {0: 0.0
+  1: 0.24064608464526682
+  2: 0.00265794316090779
+  3: 0.5869965242281742
+  4: 0.16499693314250666
+  5: 0.004702514823144551}
+ 'intersection_count': 3714
+ 'street_length_total': 649811.1710000016
+ 'street_segment_count': 6539
+ 'street_length_avg': 99.37470117755034
+ 'circuity_avg': 1.0686847441265899
+ 'self_loop_proportion': 0.002293928735280624}
+
+
+San Marcos
+{'n': 9730
+ 'm': 25178
+ 'k_avg': 5.175334018499486
+ 'edge_length_total': 8675128.461999958
+ 'edge_length_avg': 344.55192874731745
+ 'streets_per_node_avg': 2.6440904419321685
+ 'streets_per_node_counts': {0: 0
+  1: 2461
+  2: 7
+  3: 5804
+  4: 1451
+  5: 6
+  6: 1}
+ 'streets_per_node_proportions': {0: 0.0
+  1: 0.25292908530318603
+  2: 0.0007194244604316547
+  3: 0.5965056526207605
+  4: 0.14912641315519012
+  5: 0.0006166495375128469
+  6: 0.00010277492291880781}
+ 'intersection_count': 7269
+ 'street_length_total': 4357241.496999999
+ 'street_segment_count': 12843
+ 'street_length_avg': 339.26975761114994
+ 'circuity_avg': 1.2523507074611304
+ 'self_loop_proportion': 0.0003893171377404033}
+
+
+
+Huhue
+{'n': 11862
+ 'm': 29754
+ 'k_avg': 5.016691957511381
+ 'edge_length_total': 13367753.774000138
+ 'edge_length_avg': 449.27585447335275
+ 'streets_per_node_avg': 2.544849097959872
+ 'streets_per_node_counts': {0: 0 1: 3363 2: 9 3: 7163 4: 1318 5: 9}
+ 'streets_per_node_proportions': {0: 0.0
+  1: 0.2835103692463328
+  2: 0.0007587253414264037
+  3: 0.6038610689597033
+  4: 0.1111111111111111
+  5: 0.0007587253414264037}
+ 'intersection_count': 8499
+ 'street_length_total': 6699652.818000018
+ 'street_segment_count': 15058
+ 'street_length_avg': 444.9231516801712
+ 'circuity_avg': 1.3020242581372206
+ 'self_loop_proportion': 0.001461017399389029}
+
+​
+
+Sacatepequez
+
+{'n': 7172
+ 'm': 17406
+ 'k_avg': 4.853876185164529
+ 'edge_length_total': 2386840.724999973
+ 'edge_length_avg': 137.12746897621355
+ 'streets_per_node_avg': 2.5461517010596766
+ 'streets_per_node_counts': {0: 0
+  1: 2054
+  2: 38
+  3: 4200
+  4: 871
+  5: 7
+  6: 2}
+ 'streets_per_node_proportions': {0: 0.0
+  1: 0.2863915225878416
+  2: 0.005298382598996096
+  3: 0.5856107083100948
+  4: 0.12144450641383157
+  5: 0.0009760178471834914
+  6: 0.0002788622420524261}
+ 'intersection_count': 5118
+ 'street_length_total': 1255458.6730000002
+ 'street_segment_count': 9124
+ 'street_length_avg': 137.59959151687858
+ 'circuity_avg': 1.1190036945334056
+ 'self_loop_proportion': 0.001863217886891714}
+
+
+
+Chimaltenango
+{'n': 8044
+ 'm': 20256
+ 'k_avg': 5.03630034808553
+ 'edge_length_total': 5956054.164000021
+ 'edge_length_avg': 294.03900888625697
+ 'streets_per_node_avg': 2.611884634510194
+ 'streets_per_node_counts': {0: 0
+  1: 2097
+  2: 7
+  3: 4877
+  4: 1049
+  5: 12
+  6: 2}
+ 'streets_per_node_proportions': {0: 0.0
+  1: 0.2606911984087519
+  2: 0.000870213823968175
+  3: 0.6062904027846843
+  4: 0.13040775733465937
+  5: 0.0014917951268025858
+  6: 0.0002486325211337643}
+ 'intersection_count': 5947
+ 'street_length_total': 3052998.5870000008
+ 'street_segment_count': 10488
+ 'street_length_avg': 291.09444956140356
+ 'circuity_avg': 1.2320538910046073
+ 'self_loop_proportion': 0.0011441647597254005}
+ 
+ 
+ 
+ Quiche
+ 
+ {'n': 10875
+ 'm': 27791
+ 'k_avg': 5.110988505747127
+ 'edge_length_total': 11398534.747999845
+ 'edge_length_avg': 410.15201856715646
+ 'streets_per_node_avg': 2.640183908045977
+ 'streets_per_node_counts': {0: 0 1: 2882 2: 5 3: 6149 4: 1822 5: 17}
+ 'streets_per_node_proportions': {0: 0.0
+  1: 0.26501149425287357
+  2: 0.0004597701149425287
+  3: 0.5654252873563218
+  4: 0.16754022988505748
+  5: 0.0015632183908045978}
+ 'intersection_count': 7993
+ 'street_length_total': 5741932.5589999845
+ 'street_segment_count': 14316
+ 'street_length_avg': 401.08497897457283
+ 'circuity_avg': 1.2469035290861645
+ 'self_loop_proportion': 0.0008382229673093043}
+ 
+ 
+ Peten
+ 
+ {'n': 18483
+ 'm': 54952
+ 'k_avg': 5.946220851593356
+ 'edge_length_total': 15739528.124999953
+ 'edge_length_avg': 286.4232079815103
+ 'streets_per_node_avg': 3.019693772655954
+ 'streets_per_node_counts': {0: 0
+  1: 3059
+  2: 9
+  3: 8962
+  4: 6417
+  5: 34
+  6: 2}
+ 'streets_per_node_proportions': {0: 0.0
+  1: 0.1655034355894606
+  2: 0.0004869339392955689
+  3: 0.4848779959963209
+  4: 0.34718389871774064
+  5: 0.0018395282151165936
+  6: 0.00010820754206568198}
+ 'intersection_count': 15424
+ 'street_length_total': 7909310.903999987
+ 'street_segment_count': 27903
+ 'street_length_avg': 283.45736673475926
+ 'circuity_avg': 1.10300726310247
+ 'self_loop_proportion': 0.00032254596279969894}
+ 
+ 
+ 
+ 
+ 
+ Alta Verapaz
+ 
+ {'n': 11046
+ 'm': 27853
+ 'k_avg': 5.0430925221799745
+ 'edge_length_total': 12416327.573000154
+ 'edge_length_avg': 445.780618712532
+ 'streets_per_node_avg': 2.5755929748325186
+ 'streets_per_node_counts': {0: 0
+  1: 3237
+  2: 3
+  3: 6033
+  4: 1758
+  5: 14
+  6: 1}
+ 'streets_per_node_proportions': {0: 0.0
+  1: 0.2930472569255839
+  2: 0.00027159152634437803
+  3: 0.5461705594785443
+  4: 0.15915263443780553
+  5: 0.0012674271229404308
+  6: 9.053050878145935e-05}
+ 'intersection_count': 7809
+ 'street_length_total': 6231122.62199999
+ 'street_segment_count': 14204
+ 'street_length_avg': 438.6878782033223
+ 'circuity_avg': 1.2225313877354478
+ 'self_loop_proportion': 0.001126443255421008}
+
+
+
+
+Izabal
+
+{'n': 9361
+ 'm': 23699
+ 'k_avg': 5.0633479329131506
+ 'edge_length_total': 7928874.921999973
+ 'edge_length_avg': 334.5658011730441
+ 'streets_per_node_avg': 2.571840615318876
+ 'streets_per_node_counts': {0: 0
+  1: 2708
+  2: 3
+  3: 5254
+  4: 1384
+  5: 9
+  6: 3}
+ 'streets_per_node_proportions': {0: 0.0
+  1: 0.28928533276359364
+  2: 0.00032047858134814656
+  3: 0.5612648221343873
+  4: 0.14784745219527828
+  5: 0.0009614357440444397
+  6: 0.00032047858134814656}
+ 'intersection_count': 6653
+ 'street_length_total': 3985407.619999993
+ 'street_segment_count': 12029
+ 'street_length_avg': 331.3166198353972
+ 'circuity_avg': 1.156550913841245
+ 'self_loop_proportion': 0.001413251309335772}
+
+​
+Zacapa
+
+{'n': 6280
+ 'm': 16845
+ 'k_avg': 5.364649681528663
+ 'edge_length_total': 3813827.6569999903
+ 'edge_length_avg': 226.40710341347523
+ 'streets_per_node_avg': 2.7406050955414014
+ 'streets_per_node_counts': {0: 0
+  1: 1260
+  2: 6
+  3: 4130
+  4: 872
+  5: 11
+  6: 1}
+ 'streets_per_node_proportions': {0: 0.0
+  1: 0.20063694267515925
+  2: 0.0009554140127388535
+  3: 0.6576433121019108
+  4: 0.13885350318471337
+  5: 0.0017515923566878981
+  6: 0.0001592356687898089}
+ 'intersection_count': 5020
+ 'street_length_total': 1919983.525000003
+ 'street_segment_count': 8597
+ 'street_length_avg': 223.33180469931406
+ 'circuity_avg': 1.1896348469342295
+ 'self_loop_proportion': 0.0013958357566592997}
+ 
+ 
+ El Progreso
+ {'n': 3609
+ 'm': 9270
+ 'k_avg': 5.13715710723192
+ 'edge_length_total': 2564503.5750000034
+ 'edge_length_avg': 276.6454773462787
+ 'streets_per_node_avg': 2.627043502355223
+ 'streets_per_node_counts': {0: 0 1: 881 2: 9 3: 2300 4: 413 5: 6}
+ 'streets_per_node_proportions': {0: 0.0
+  1: 0.24411194236630646
+  2: 0.0024937655860349127
+  3: 0.6372956497644777
+  4: 0.114436131892491
+  5: 0.0016625103906899418}
+ 'intersection_count': 2728
+ 'street_length_total': 1337790.0379999992
+ 'street_segment_count': 4726
+ 'street_length_avg': 283.070257723233
+ 'circuity_avg': 1.2376556872595574
+ 'self_loop_proportion': 0.0008463817181548879}
+
+​
+Baja Verapaz
+
+{'n': 2761
+ 'm': 7421
+ 'k_avg': 5.375588554871423
+ 'edge_length_total': 3148155.0419999887
+ 'edge_length_avg': 424.2224824147674
+ 'streets_per_node_avg': 2.7091633466135456
+ 'streets_per_node_counts': {0: 0 1: 659 2: 0 3: 1596 4: 497 5: 9}
+ 'streets_per_node_proportions': {0: 0.0
+  1: 0.2386816370880116
+  2: 0.0
+  3: 0.5780514306410721
+  4: 0.18000724375226368
+  5: 0.0032596885186526622}
+ 'intersection_count': 2102
+ 'street_length_total': 1575789.8979999998
+ 'street_segment_count': 3731
+ 'street_length_avg': 422.3505489145001
+ 'circuity_avg': 1.2896622411146315
+ 'self_loop_proportion': 0.0005360493165371214}
+ 
+ {'n': 60883
+ 'm': 144819
+ 'k_avg': 4.757288569879933
+ 'edge_length_total': 16216008.991000121
+ 'edge_length_avg': 111.97431960585367
+ 'streets_per_node_avg': 2.632639653105136
+ 'streets_per_node_counts': {0: 0
+  1: 15479
+  2: 211
+  3: 36530
+  4: 8535
+  5: 116
+  6: 12}
+ 'streets_per_node_proportions': {0: 0.0
+  1: 0.2542417423582938
+  2: 0.0034656636499515465
+  3: 0.6000032849892417
+  4: 0.14018691588785046
+  5: 0.0019052937601629354
+  6: 0.00019709935449961402}
+ 'intersection_count': 45404
+ 'street_length_total': 8855124.382000003
+ 'street_segment_count': 80164
+ 'street_length_avg': 110.46260643181482
+ 'circuity_avg': 1.1207422050410127
+ 'self_loop_proportion': 0.002357666783094656}
+#fig ax = ox.plot_graph(G_guatenode_size=4 edge_color='g' edge_linewidth=0.4)
+
